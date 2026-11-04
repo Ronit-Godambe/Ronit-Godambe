@@ -76,13 +76,13 @@ I'm a Computer Engineering student passionate about software development and bui
 </p>
 
 ---
-
+<!--
 ## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="./achievements.svg" alt="GitHub Achievements" width="100%" />
 </p>
-
+-->
 ---
 
 ## 🐍 Contribution Activity
