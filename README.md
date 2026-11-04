@@ -61,20 +61,6 @@ I'm a Computer Engineering student passionate about software development and bui
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Statistics" width="100%" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="./languages.svg" alt="Most Used Languages" width="100%" />
-</p>
-
 ---
 <!--
 ## 🏆 GitHub Achievements
@@ -130,6 +116,22 @@ I'm a Computer Engineering student passionate about software development and bui
 
 
 
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Statistics" width="100%" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="./languages.svg" alt="Most Used Languages" width="100%" />
+</p>
+
 <!--
 ## Hi there 👋
 
@@ -146,3 +148,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
