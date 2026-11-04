@@ -117,7 +117,7 @@ I'm a Computer Engineering student passionate about software development and bui
 
 
 
-
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -131,7 +131,7 @@ I'm a Computer Engineering student passionate about software development and bui
 <p align="center">
   <img src="./languages.svg" alt="Most Used Languages" width="100%" />
 </p>
-
+-->
 <!--
 ## Hi there 👋
 
