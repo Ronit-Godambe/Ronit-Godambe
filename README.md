@@ -111,7 +111,7 @@ I'm a Computer Engineering student passionate about software development and bui
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  Thanks for Stopping by! ⭐
 </p>
 
 
